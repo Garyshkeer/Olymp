@@ -699,5 +699,12 @@ header .icons #menu-bars{
         width:100%;
     }
 
+    header{
+        width:40%;
+    }
+    /* .home{
+        width:100%;
+    } */
+
 }
 
