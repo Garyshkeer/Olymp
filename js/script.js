@@ -57,8 +57,7 @@ var swiper = new Swiper(".home-slider", {
         slidesPerView: 1,
     },
     320: {
-      slidesPerView: 2,
-      spaceBetween: 20
+      slidesPerView: 1,
     },
     640: {
       slidesPerView: 2,
@@ -85,8 +84,7 @@ var swiper = new Swiper(".review-slider", {
         slidesPerView: 1,
     },
     320: {
-      slidesPerView: 2,
-      spaceBetween: 20
+      slidesPerView: 1,
     },
     640: {
       slidesPerView: 2,
